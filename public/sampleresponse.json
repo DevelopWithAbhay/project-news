@@ -1,0 +1,210 @@
+{
+  "status": "ok",
+  "totalResults": 37,
+  "articles": [
+    {
+   
+      "source": { "id": null, "name": "The Weather Channel" },
+      "author": "The Weather Channel",
+      "title": "Hurricane Helene A Surge, Flood, High Wind Danger - The Weather Channel",
+      "description": "This massive hurricane could be destructive in several ways. Here's the very latest.",
+      "url": "https://weather.com/storms/hurricane/news/2024-09-25-hurricane-tropical-storm-helene-forecast-florida-southeast",
+      "urlToImage": "https://s.w-x.co/hurricane-helene-forecast-25sep24-pm.jpg",
+      "publishedAt": "2024-09-26T09:53:18Z",
+      "content": null
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "AAMER MADHANI, MATTHEW LEE, JENNIFER PELTZ",
+      "title": "US and allies call for an immediate 21-day cease-fire between Israel and Hezbollah - The Associated Press",
+      "description": "The U.S., France and other allies are jointly calling for an immediate 21-day cease-fire to allow for negotiations in the escalating conflict between Israel and Hezbollah that has killed more than 600 people in Lebanon. The joint statement Wednesday, negotiat…",
+      "url": "https://apnews.com/article/biden-israel-hezbollah-war-ff2ec626f5d8883014f577b9a0cfaf1e",
+      "urlToImage": "https://dims.apnews.com/dims4/default/4385044/2147483647/strip/true/crop/4116x2315+0+214/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F07%2F0b%2F4c7cd748063a28576626f4736c77%2F5e45573cde4049e7931fb52f0505787c",
+      "publishedAt": "2024-09-26T09:37:00Z",
+      "content": "NEW YORK (AP) The U.S., France and other allies jointly called Wednesday for an immediate 21-day cease-fire to allow for negotiations in the escalating conflict between Israel and Hezbollah that has … [+7470 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "WSJ Staff, Sabela Ojea, Patricia Kowsmann, Heard Editors",
+      "title": "Stock Market Today: What to Watch — Live Updates - The Wall Street Journal",
+      "description": "Follow along for live updates on stocks, bonds and markets, including the Dow Jones Industrial Average, S&P 500 and Nasdaq Composite.",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-gdp-jobless-data-09-26-2024",
+      "urlToImage": "https://images.wsj.net/im-925349/social",
+      "publishedAt": "2024-09-26T09:32:00Z",
+      "content": "After taking a quick breather, markets are looking up again.\r\nStock futures rose Thursday, with tech-heavy Nasdaq-100 futures up well over 1%. Chipmaker Micron Technology said late Wednesday that rob… [+1798 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": "Krystal Hu, Kenrick Cai",
+      "title": "Exclusive: OpenAI to remove non-profit control and give Sam Altman equity - Reuters",
+      "description": "The move could also have implications for how the company manages AI risks in a new governance structure.",
+      "url": "https://www.reuters.com/technology/artificial-intelligence/openai-remove-non-profit-control-give-sam-altman-equity-sources-say-2024-09-25/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/G7MSE5SWOFPQRANJK5FBWQIXII.jpg?auth=88d54d448ebd15c18c83d6b86389abe78c2478203cc73793671f6e00466e82a9&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2024-09-26T09:22:15Z",
+      "content": null
+    },
+    {
+      "source": { "id": "bloomberg", "name": "Bloomberg" },
+      "author": null,
+      "title": "China’s Politburo Supercharges Stimulus With Housing, Rates Vows - Bloomberg",
+      "description": "China’s top leaders ramped up urgent efforts to revive growth with pledges to support fiscal spending and stabilize the beleaguered property sector, giving new momentum to stimulus measures aimed at arresting a slowdown in the world’s second-largest economy.",
+      "url": "https://www.bloomberg.com/news/articles/2024-09-26/china-holds-surprise-politburo-meeting-on-economy-amid-slowdown",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ii1zThWIEsd4/v0/1200x800.jpg",
+      "publishedAt": "2024-09-26T08:30:50Z",
+      "content": "Chinas top leaders ramped up urgent efforts to revive growth with pledges to support fiscal spending and stabilize the beleaguered property sector, giving new momentum to stimulus measures aimed at a… [+468 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Lex Harvey",
+      "title": "He’s the world’s longest-serving death row inmate. A court just declared him innocent - CNN",
+      "description": "A pair of blood-spattered trousers in a miso tank and an allegedly forced confession helped send Iwao Hakamata to death row more than five decades ago.",
+      "url": "https://www.cnn.com/2024/09/25/asia/worlds-longest-death-row-prisoner-japan-intl-hnk/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/untitled-3-21.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-09-26T07:05:00Z",
+      "content": "A pair of blood-spattered trousers in a miso tank and an allegedly forced confession helped send Iwao Hakamata to death row in the 1960s.\r\nNow, more than five decades later, the worlds longest-servin… [+5608 chars]"
+    },
+    {
+      "source": { "id": null, "name": "[Removed]" },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-09-26T05:48:40Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "Cassandra Negley",
+      "title": "WNBA playoffs: As Caitlin Clark's season ends, it's a reminder that this is just the beginning - Yahoo Sports",
+      "description": "Clark was on her game as the Fever's season ended in Game 2, but she is looking for more. \"The fun part is I feel like I'm just scratching the surface...",
+      "url": "https://sports.yahoo.com/wnba-playoffs-as-caitlin-clarks-season-ends-its-a-reminder-that-this-is-just-the-beginning-053511038.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/IW7jr498Yjc9CRz3FmJVUg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MjQ-/https://s.yimg.com/os/creatr-uploaded-images/2024-09/a17d3df0-7bc8-11ef-bfaf-91164a4ca169",
+      "publishedAt": "2024-09-26T05:35:11Z",
+      "content": "UNCASVILLE, Conn. The championship version of Caitlin Clark and the Indiana Fever was never going to be built in a season. No one, from the general manager to the highly competitive Clark, were blind… [+6527 chars]"
+    },
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": null,
+      "title": "Escalating Trump row looms over Zelensky's US visit - BBC.com",
+      "description": "Republicans accused Zelensky of election interference, after he visited an arms factory with top Democrats.",
+      "url": "https://www.bbc.com/news/articles/c80rkv0k4j8o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/bb05/live/6a9a8220-7be6-11ef-a067-535ff32592e2.jpg",
+      "publishedAt": "2024-09-26T04:18:42Z",
+      "content": "The Speaker of the US House Mike Johnson has demanded that Ukraine fire its ambassador to Washington, as a feud between the Republican Party and Volodymyr Zelensky escalates. \r\nJohnson's intervention… [+3845 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Phys.Org" },
+      "author": "Frontiers",
+      "title": "Mysterious orca group near Chile tracked down, revealing newly discovered hunting skills - Phys.org",
+      "description": "Off the coast of Chile, in waters filled with krill and anchovy by the Humboldt Current system, live an elusive and little-known population of orcas. Thanks to citizen science and years of dedicated surveillance, a team of scientists led by Dr. Ana García Ceg…",
+      "url": "https://phys.org/news/2024-09-mysterious-orca-group-chile-tracked.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/mysterious-orca-group.jpg",
+      "publishedAt": "2024-09-26T04:00:01Z",
+      "content": "Off the coast of Chile, in waters filled with krill and anchovy by the Humboldt Current system, live an elusive and little-known population of orcas. Thanks to citizen science and years of dedicated … [+4928 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Hindustan Times" },
+      "author": "Aditi Srivastava",
+      "title": "Diddy’s ‘white list’: Beyoncé, J.Lo, Justin Bieber, Usher, and more. What celebs have said about infamous parties? - Hindustan Times",
+      "description": "While some celebrities confirm attending Diddy's parties, they deny involvement in the alleged 'Freak Offs. Speculations about attendees, dubbed ‘Diddy list’… | Hollywood",
+      "url": "https://www.hindustantimes.com/entertainment/hollywood/diddys-white-list-beyonc-j-lo-justin-bieber-usher-and-more-what-celebs-have-said-about-infamous-parties-101727322277033.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/09/26/1600x900/Diddywhiteguestlist_1727322689959_1727322698343.jpg",
+      "publishedAt": "2024-09-26T03:55:03Z",
+      "content": "A growing list of celebrities, including Beyoncé, J.Lo, Justin Bieber, Usher, and others, is being linked to Sean \"Diddy\" Combs' infamous parties. While a few celebs have outright denied attending th… [+4685 chars]"
+    },
+    {
+      "source": { "id": null, "name": "New York Post" },
+      "author": "Victor Nava",
+      "title": "Kamala Harris won’t say how she’ll pay for $1.7T spending plan in first solo interview with major news network - New York Post ",
+      "description": "The vice president also served up several word salads during her MSNBC sitdown.",
+      "url": "https://nypost.com/2024/09/25/us-news/kamala-harris-wont-say-how-shell-pay-for-1-7t-spending-plan-in-first-solo-sit-down-with-major-news-network/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/09/vice-president-kamala-harris-discusses-90404902.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2024-09-26T03:39:00Z",
+      "content": "Vice President Kamala Harris on Wednesday refused to explain how she intends to pay for her pricey economic plan if Republicans in Congress block her proposed presidential agenda, one of several ques… [+4990 chars]"
+    },
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": null,
+      "title": "Japan joins patrols through Taiwan Strait - reports - BBC.com",
+      "description": "There has been a rise in patrols by the US and its allies who do not accept China's claims over the strait.",
+      "url": "https://www.bbc.com/news/articles/cm28yd04xxno",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/285f/live/f0c4d330-7bb6-11ef-b1e6-b9e53e4962ea.jpg",
+      "publishedAt": "2024-09-26T03:17:08Z",
+      "content": "A Japanese warship sailed through the Taiwan Strait between Taiwan and China for the first time, according to reports in Japanese media.\r\nThe JS Sazanami, a naval destroyer, passed through the strait… [+3305 chars]"
+    },
+    {
+      "source": { "id": "the-hill", "name": "The Hill" },
+      "author": "Filip Timotija",
+      "title": "Top staff in NC Lt. Gov. Mark Robinson’s office stepping down - The Hill",
+      "description": "Top staff in North Carolina Lt. Gov. Mark Robinson’s (R) government office will be stepping down next week, multiple outlets reported on Wednesday, increasing the number of aides parting ways with the state’s GOP gubernatorial candidate following CNN’s explos…",
+      "url": "https://thehill.com/homenews/campaign/4900197-top-staff-north-carolina-mark-robinson-office-stepping-down/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/08/AP24198041202925-e1722627272348.jpg?w=1280",
+      "publishedAt": "2024-09-26T03:06:00Z",
+      "content": "Skip to content\r\nTop staff in North Carolina Lt. Gov. Mark Robinson’s (R) government office will be stepping down next week, multipleoutlets reported on Wednesday, increasing the number of aides part… [+1801 chars]"
+    },
+    {
+      "source": { "id": "al-jazeera-english", "name": "Al Jazeera English" },
+      "author": "Al Jazeera",
+      "title": "Putin outlines new rules for Russian use of vast nuclear arsenal - Al Jazeera English",
+      "description": "Comments appear to significantly lower the threshold for Russia to use its vast nuclear arsenal.",
+      "url": "https://www.aljazeera.com/news/2024/9/26/putin-outlines-new-rules-for-russian-use-of-vast-nuclear-arsenal",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/09/AP24269655004743-1727316639.jpg?resize=1920%2C1440",
+      "publishedAt": "2024-09-26T02:50:38Z",
+      "content": "Russian President Vladimir Putin has warned that Russia could respond with nuclear weapons if it were attacked with conventional arms in the latest changes to the countrys nuclear doctrine.\r\nIn a tel… [+4322 chars]"
+    },
+    {
+      "source": { "id": "abc-news", "name": "ABC News" },
+      "author": "ABC News",
+      "title": "Detroit 'Bridgerton' ball attendees speak out: 'We were completely devastated' - ABC News",
+      "description": null,
+      "url": "https://abcnews.go.com/GMA/Culture/detroit-bridgerton-ball-attendees-speak-completely-devastated/story?id\\\\u003d114144636",
+      "urlToImage": null,
+      "publishedAt": "2024-09-26T02:09:58Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": null,
+      "title": "Lebanon strikes preparing for ground offensive - Israel army chief - BBC.com",
+      "description": "More than 50 people were killed by Israeli strikes on Wednesday, as Hezbollah fires missile at Tel Aviv.",
+      "url": "https://www.bbc.com/news/articles/c8xe8nkj9wyo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1f9a/live/7dc9b1d0-7b38-11ef-b02d-c5f3b724a1ea.jpg",
+      "publishedAt": "2024-09-26T02:06:14Z",
+      "content": "Israels military chief has told troops that extensive air strikes in Lebanon targeting the armed group Hezbollah could pave the way for them to enter enemy territory.\r\n\"You hear the jets overhead; we… [+5992 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Daniel Dale",
+      "title": "Fact check: Harris makes false claim about Trump’s record on manufacturing jobs - CNN",
+      "description": "Vice President Kamala Harris made a false claim about the jobs record of her Republican opponent, former President Donald Trump, in an interview on MSNBC on Wednesday evening.",
+      "url": "https://www.cnn.com/2024/09/25/politics/fact-check-harris-trumps-manufacturing-jobs/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/still-20989448-2874-666-still.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-09-26T01:25:00Z",
+      "content": "Vice President Kamala Harris made a false claim about the jobs record of her Republican opponent, former President Donald Trump, in an interview on MSNBC on Wednesday evening.\r\nInterviewer Stephanie … [+3770 chars]"
+    },
+    {
+      "source": { "id": "bloomberg", "name": "Bloomberg" },
+      "author": "Natalia Drozdiak",
+      "title": "US Hails China’s Advanced Notice of ICBM Test as ‘Good Thing’ - Bloomberg",
+      "description": "The Pentagon praised China for its transparency before the test launch of an intercontinental ballistic missile into the Pacific Ocean, in a sign that military communication between the superpowers is improving.",
+      "url": "https://www.bloomberg.com/news/articles/2024-09-26/us-hails-china-s-advanced-notice-of-icbm-test-as-good-thing",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibqOCAcZ09Xw/v1/1200x800.jpg",
+      "publishedAt": "2024-09-26T00:39:00Z",
+      "content": "The Pentagon praised China for its transparency before the test launch of an intercontinental ballistic missile into the Pacific Ocean, in a sign that military communication between the superpowers i… [+271 chars]"
+    },
+    {
+      "source": { "id": "the-washington-post", "name": "The Washington Post" },
+      "author": "Adrián Blanco, Chris Alcantara",
+      "title": "How every senator voted on the stopgap bill to avert a government shutdown - The Washington Post",
+      "description": "The Senate approved the funding measure on Wednesday 78 to 18. See how your senators voted.",
+      "url": "https://www.washingtonpost.com/politics/interactive/2024/09/25/senate-vote-results-government-shutdown-bill-cr/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EU4LQCYM7VBA7LTNJQQQ4NJZCA.jpg&w=1200",
+      "publishedAt": "2024-09-26T00:23:01Z",
+      "content": "The Senate passed a bill Wednesday evening, 78 to 18, to extend federal funding at current rates until Dec. 20.\r\nThe House approved the measure earlier Wednesday, 341 to 82, with Republicans relying … [+567 chars]"
+    }
+  ]
+}
