@@ -16,7 +16,7 @@ export class News extends Component {
       articles: [],
       page: 1,
       loading: false,
-      totalResult:0,
+      totalResults:0,
     };
   }
   updatenews = async () => {
@@ -31,7 +31,7 @@ export class News extends Component {
     this.props.setProgress(70)
     this.setState({
       articles: parsedData.articles,
-      totalResult: parsedData.totalResults ||0,
+      totalResults: parsedData.totalResultss ||0,
       author: parsedData.author,
       date: parsedData.publishedAt,
       loading: false,
@@ -52,7 +52,7 @@ export class News extends Component {
     this.setState({
       page:this.state.page+1,
       articles: this.state.articles.concat(parsedData.articles),
-      totalResult: parsedData.totalResults ||0,
+      totalResults: parsedData.totalResultss ||0,
       author: parsedData.author,
       date: parsedData.publishedAt,
      loading:false
@@ -82,7 +82,7 @@ export class News extends Component {
         <InfiniteScroll
              dataLength={this.state.articles.length}
           next={this.fetchMoreData}
-          hasMore={this.state.articles.length!==this.state.totalResult}
+          hasMore={this.state.articles.length!==this.state.totalResults}
           loader={this.state.loading &&<Loader/>}
         >
           <div className="container">
@@ -123,7 +123,7 @@ export class News extends Component {
             type="button"
             className="btn btn-dark"
             disabled={
-              this.state.page > this.state.totalResult / this.props.pageSize
+              this.state.page > this.state.totalResults / this.props.pageSize
             }
             onClick={this.handleNextClick}
           >
