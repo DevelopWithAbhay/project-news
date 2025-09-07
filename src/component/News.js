@@ -13,7 +13,7 @@ export class News extends Component {
   constructor() {
     super();
     this.state = {
-      articles: [],
+      articles: parsedData.articles || [],
       page: 1,
       loading: false,
       totalResults:0,
@@ -30,7 +30,7 @@ export class News extends Component {
     let parsedData = await data.json();
     this.props.setProgress(70)
     this.setState({
-      articles: parsedData.articles,
+      articles: parsedData.articles ||[],
       totalResults: parsedData.totalResultss ||0,
       author: parsedData.author,
       date: parsedData.publishedAt,
@@ -51,7 +51,7 @@ export class News extends Component {
     let parsedData = await data.json();
     this.setState({
       page:this.state.page+1,
-      articles: this.state.articles.concat(parsedData.articles),
+      articles: this.state.articles.concat(parsedData.articles) ||[],
       totalResults: parsedData.totalResultss ||0,
       author: parsedData.author,
       date: parsedData.publishedAt,
@@ -80,8 +80,8 @@ export class News extends Component {
         <h1 className="text-center my-4"> Top Headlines </h1>
         <div>{this.state.loading && <Loader />}</div> 
         <InfiniteScroll
-             dataLength={this.state.articles.length}
-          next={this.fetchMoreData}
+            dataLength={this.state.articles ? this.state.articles.length : 0}
+          next={this.fetchMoreData  }
           hasMore={this.state.articles.length!==this.state.totalResults}
           loader={this.state.loading &&<Loader/>}
         >
