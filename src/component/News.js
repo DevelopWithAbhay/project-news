@@ -31,7 +31,7 @@ export class News extends Component {
     this.props.setProgress(70)
     this.setState({
       articles: parsedData.articles,
-      totalResult: parsedData.totalResult,
+      totalResult: parsedData.totalResults ||0,
       author: parsedData.author,
       date: parsedData.publishedAt,
       loading: false,
@@ -52,7 +52,7 @@ export class News extends Component {
     this.setState({
       page:this.state.page+1,
       articles: this.state.articles.concat(parsedData.articles),
-      totalResult: parsedData.totalResult,
+      totalResult: parsedData.totalResults ||0,
       author: parsedData.author,
       date: parsedData.publishedAt,
      loading:false
